@@ -1,0 +1,33 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+  font-family: "Abel";
+}
+.button:hover,
+.submitbtn:hover,
+.contactbtn:hover,
+#addbtn:hover {
+  background-color: #000;
+  color: #fa6f19;
+  box-shadow: 5px 5px 5px #fa6f19;
+}
+.signup:hover,
+.preorder:hover {
+  background-color: #000;
+  opacity: 70%;
+}
+#signupbtn:hover {
+  opacity: 1;
+  background-color: #fa6f19;
+}
+.canclebtn:hover,
+.signupnow:hover {
+  opacity: 70%;
+}

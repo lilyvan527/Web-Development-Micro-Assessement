@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Abel";
+  src: url(../fonts/Abel-Regular.ttf);
+}
+.background h1 {
+  font-size: 100px;
+  color: #fa6f19;
+  font-weight: bold;
+}
+.button a {
+  color: #fa6f19;
+  text-decoration: none;
+  font-size: 40px;
+}
+.signup a,
+.preorder a {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 40px;
+  color: #fff;
+}
+.signup i,
+.preorder i {
+  color: #fff;
+  font-size: 40px;
+}
+.container h1,
+.team h1 {
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 80px;
+  color: #fa6f19;
+}
+.col-6 h1,
+.javahere h1 {
+  text-transform: capitalize;
+  color: #fa6f19;
+  margin-bottom: 10px;
+}
+.col-6 p {
+  color: #fff;
+  padding: 10px 20px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+  color: #000;
+}
+.title {
+  color: #fa6f19;
+}
+#signupbtn {
+  font-size: 20px;
+}
